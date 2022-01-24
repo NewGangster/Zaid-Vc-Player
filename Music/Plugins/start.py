@@ -79,7 +79,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ 💞", url=f"https://t.me/{SUPPORT_GROUP}")
+                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ 💞", url=f"https://t.me/GangsterTelegram_bot}")
                 ]
             ]
         ),
